@@ -1,7 +1,14 @@
 # tix
+<img src="https://raw.githubusercontent.com/febnug/tix/main/tix-screenshoot.png"/>
+
 <p>512 bytes OS for playing Tic Tac Toe game</p>
 <hr>
-<img src="https://raw.githubusercontent.com/febnug/tix/main/tix-screenshoot.png"/>
+
+<h3>How to build</h3>
+<p>Just type <code>make</code></p>
+
+<h3>How to run</h3>
+<pre>qemu-system-i386 -fda tix.img</pre>
 
 <h3>How to play ?</h3>
 <p>It's not difficult to play this game, it's recommended to play 2 people, you just need to input
