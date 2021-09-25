@@ -11,7 +11,7 @@
 <pre>qemu-system-i386 -fda tix.img</pre>
 
 <h3>How to play ?</h3>
-<p>It's not difficult to play this game, it's recommended to play 2 people, you just need to input
+<p>It's not difficult to play this game, it's recommended to play 2 people and choose one character <code>x</code> or <code>o</code>, you just need to input
 in the form of a number from 1 to 3 and the character you choose to save your character where you want in several boxes
 already provided. </p>
 
