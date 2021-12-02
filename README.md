@@ -1,7 +1,7 @@
 # tix
 <img src="https://raw.githubusercontent.com/febnug/tix/main/tix-screenshoot.png"/>
 
-<p>A 512-byte operating system tic tac toe game</p>
+<p>A 512-byte bootable tic tac toe game</p>
 <hr>
 
 <h3>How to build</h3>
