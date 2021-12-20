@@ -135,12 +135,12 @@ _spasi:
 
 
 cetak_string:           
-    mov     ah, 0x0e    
+    mov     ah, 0eh    
 .repeat:
     lodsb           
     test    al, al
     je      .done       
-    int     0x10         
+    int     10h        
     jmp     .repeat
 .done:
     ret
